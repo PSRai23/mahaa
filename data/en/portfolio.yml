@@ -356,3 +356,60 @@ portfolio:
       categories: ["turbine"]
       link: "#"
 
+# thermilate
+    - name: Thermilate e-coat 
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      description: Pure acrylic elastomeric paint with ceramic spheres (Top coat with high Solar reflective Index)It is energy-saving water-based coating that can reduce the sun's heat.
+      link: "#"
+
+    - name: Thermilate Roofcoat
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Thermilate Leakguard 
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Thermilate Leakguard Standard
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Thermilate Primer 
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Butyl Tape
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Polyster Reinforcement Mesh 
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Butyl sealant T- 103 (For side laps)
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Rust Bullet 
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+
+    - name: Polyurethane Low modulus sealant – T104
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+    
+    - name: Vitrocoat – Glass coating additive
+      image: images/products/turbine.jpg
+      categories: ["thermilate"]
+      link: "#"
+

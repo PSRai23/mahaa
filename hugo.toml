@@ -91,24 +91,24 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "products"
+name = "Products"
 url = "#portfolio"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "partners"
-url = "#testimonial"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "partners"
+# url = "#testimonial"
+# weight = 4
 
 # [[Languages.en.menu.main]]
 # name = "pricing"
@@ -121,9 +121,9 @@ weight = 4
 # weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
-weight = 7
+weight = 4
 
 
 
