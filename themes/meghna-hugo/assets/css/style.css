@@ -682,6 +682,12 @@ nav.navbar{
   margin-bottom: 20px;
 }
 
+.thermilate-link {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #fffe00;
+}
+
 .about .block:hover {
   border-bottom: 2px solid #FFA896;
 }

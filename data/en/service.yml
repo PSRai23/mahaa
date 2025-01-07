@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : What We Do?
+  title : Services We Offer
   content : We offer Specialized Equipment, spare parts, consumables and service in sultanate of oman. We ensure your industrial needs are met with the best-in-class    products and services                        
   service_item:
   - name: "Electrical Consumables and Devices"
@@ -30,10 +30,10 @@ service:
 
   - name: "Thermilates"
     image: images/products/thermilate.png
-    content: "Thermilates liquid applied waterproofing fills every nook and cranny in concrete , providing 100% coverage and flexibility as it cures."
+    content: "Thermilates liquid applied waterproofing fills every nook and cranny in concrete."
 
   - name: "Facad Focus"
     image: images/products/facad.png
-    content: "Where brilliance meets innovation in the world of Façade Manufacturing"
+    content: "Where brilliance meets innovation in the world of Facade Manufacturing"
   
   link: "#portfolio"
