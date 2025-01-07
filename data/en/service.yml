@@ -27,5 +27,13 @@ service:
   - name: "Turbine Spare Parts"
     image: images/products/turbine.jpg
     content: "Best quality spare parts for your Gas and steam turbines."
+
+  - name: "Thermilates"
+    image: images/products/thermilate.png
+    content: "Thermilates liquid applied waterproofing fills every nook and cranny in concrete , providing 100% coverage and flexibility as it cures."
+
+  - name: "Facad Focus"
+    image: images/products/facad.png
+    content: "Where brilliance meets innovation in the world of Façade Manufacturing"
   
   link: "#portfolio"

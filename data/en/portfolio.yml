@@ -4,412 +4,491 @@ portfolio:
   portfolio_item:
   # electric
 
-    - name: Cable management systems
-      image: images/products/electrical.jpg
+
+    - name: Cable management systems 
+      image: images/products/electric/image2.png
       categories: ["electric"]
-      content : Cable management systems
       link: "#"
 
-    - name: Low-medium-high voltage motors & drives
-      image: images/products/electrical.jpg
+    - name: Low-medium-high voltage motors & drives  
+      image: images/products/electric/image1.png
       categories: ["electric"]
-      content : Low/medium/high voltage motors & drives
       link: "#"
 
     - name:  Power cables, fire Resistant and fire alarm cable
-      image: images/products/electrical.jpg
+      image: images/products/electric/image3.png
       categories: ["electric"]
       link: "#"
 
     - name:  Electrical switches, sensors
-      image: images/products/electrical.jpg
+      image: images/products/electric/image4.png
       categories: ["electric"]
       link: "#"
 
     - name:  Earthing & lighting systems
-      image: images/products/electrical.jpg
+      image: images/products/electric/image5.png
       categories: ["electric"]
       link: "#"
 
     - name:  Explosion proof products – junction boxes, plug & sockets
-      image: images/products/electrical.jpg
+      image: images/products/electric/image6.png
       categories: ["electric"]
       link: "#"
 
     - name: Industrial plugs & sockets
-      image: images/products/electrical.jpg
+      image: images/products/electric/image7.png
       categories: ["electric"]
       link: "#"
 
     - name: OEM spares
-      image: images/products/electrical.jpg
+      image: images/products/electric/image8.png
       categories: ["electric"]
       link: "#"
 
     - name:  Capacitors
-      image: images/products/electrical.jpg
+      image: images/products/electric/image9.png
       categories: ["electric"]
       link: "#"
 
     - name:  Voltage regulators
-      image: images/products/electrical.jpg
+      image: images/products/electric/image10.png
       categories: ["electric"]
       link: "#"
 
     - name: Switchgear
-      image: images/products/electrical.jpg
+      image: images/products/electric/image11.png
       categories: ["electric"]
       link: "#"
 
     - name: Relays
-      image: images/products/electrical.jpg
+      image: images/products/electric/image12.png
       categories: ["electric"]
       link: "#"
 
 
 
 # safety
-    - name: Sounders, beacons, sirens, alarms
+    - name: Special PPE (chemical or gas resistant, hazardous environment)
       content: safety
-      image: images/products/safety.jpg
-      categories: ["safety"]
-      link: "#"
-
-    - name: Anti collision systems for cranes
-      image: images/products/safety.jpg
-      categories: ["safety"]
-      link: "#"
-
-    - name: Hoists and workshop cranes
-      image: images/products/safety.jpg
+      image: images/products/safety/image1.png
       categories: ["safety"]
       link: "#"
 
     - name: Trolleys, lifters, stackers
-      image: images/products/safety.jpg
+      image: images/products/safety/image2.png
       categories: ["safety"]
       link: "#"
 
-    - name: Special PPE (chemical or gas resistant, hazardous environment)
-      image: images/products/safety.jpg
+    - name: Sounders, beacons, sirens, alarms
+      image: images/products/safety/image3.png
       categories: ["safety"]
       link: "#"
 
     - name: Chain blocks
-      image: images/products/safety.jpg
+      image: images/products/safety/image4.png
+      categories: ["safety"]
+      link: "#"
+
+    - name: Anti-collision systems for cranes
+      image: images/products/safety/image5.png
+      categories: ["safety"]
+      link: "#"
+
+    - name: Hoists and workshop cranes
+      image: images/products/safety/image6.png
       categories: ["safety"]
       link: "#"
 
 # light 
 
     - name: Outdoor & indoor lighting, temporary & portable lighting
-      image: images/products/lighting.jpg
+      image: images/products/light/image1.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Industrial lighting
-      image: images/products/lighting.jpg
+    - name: Sports arena lighting
+      image: images/products/light/image2.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Sports arena lighting
-      image: images/products/lighting.jpg
+    - name: Specialised lighting
+      image: images/products/light/image3.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Emergency lighting
-      image: images/products/lighting.jpg
+    - name: Street lighting poles & high mast   
+      image: images/products/light/image4.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Street lighting poles & high mast
-      image: images/products/lighting.jpg
+    - name: Linear and cabinet lighting
+      image: images/products/light/image5.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Solar lighting
-      image: images/products/lighting.jpg
+    - name: Flood lighting    
+      image: images/products/light/image6.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Specialised lighting
-      image: images/products/lighting.jpg
+    - name: LED explosion proof floodlight
+      image: images/products/light/image7.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Explosion proof hazardous lighting
-      image: images/products/lighting.jpg
+    - name: LED explosion proof street light
+      image: images/products/light/image8.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Flood lighting
-      image: images/products/lighting.jpg
+    - name: Emergency lighting
+      image: images/products/light/image9.png
       categories: ["lighting"]
       link: "#"
 
-    - name: High bay lighting
-      image: images/products/lighting.jpg
+    - name: Industrial lighting   
+      image: images/products/light/image10.png
       categories: ["lighting"]
       link: "#"
 
-    - name: Linear and cabinet lighting
-      image: images/products/lighting.jpg
+    - name: Explosion proof hazardous lighting
+      image: images/products/light/image11.png
       categories: ["lighting"]
       link: "#"
 
-    - name: LED explosion proof flood light
-      image: images/products/lighting.jpg
+    - name: Solar lighting      
+      image: images/products/light/image12.png
       categories: ["lighting"]
       link: "#"
 
-    - name: LED explosion proof street light
-      image: images/products/lighting.jpg
+    - name: LED explosion proof light 
+      image: images/products/light/image13.png
       categories: ["lighting"]
       link: "#"
 
-    - name: LED explosion proof light
-      image: images/products/lighting.jpg
+    - name: High bay lighting   
+      image: images/products/light/image14.png
       categories: ["lighting"]
       link: "#"
 
-    - name: LED explosion proof floodlight
-      image: images/products/lighting.jpg
+    - name: LED explosion proof fluorescent lamp
+      image: images/products/light/image15.png
       categories: ["lighting"]
       link: "#"
 
-    - name: LED explosion proof fluorescent lamp
-      image: images/products/lighting.jpg
-      categories: ["lighting"]
-      link: "#"
 
 # instrument
     - name: Fire & gas detection systems
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image1.png
       categories: ["instrument"]
       link: "#"
 
     - name: Temperature measurements
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image2.png
       categories: ["instrument"]
       link: "#"
 
     - name: Special cables - LAPP cable, data communication cables
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image3.png
       categories: ["instrument"]
       link: "#"
 
     - name: Pressure gauges & transmitters
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image4.png
       categories: ["instrument"]
       link: "#"
 
     - name: Sensors & switches
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image5.png
       categories: ["instrument"]
       link: "#"
 
     - name: OEM spares
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image6.png
       categories: ["instrument"]
       link: "#"
 
     - name: Power Supply Cabinets
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image7.png
       categories: ["instrument"]
       link: "#"
 
     - name: Industrial Computers - Nexcom
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image8.png
       categories: ["instrument"]
       link: "#"
 
     - name: Linescanner - Raytek USA
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image9.png
       categories: ["instrument"]
       link: "#"
 
     - name: Pyrometer - Land Make
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image10.png
       categories: ["instrument"]
       link: "#"
 
     - name: Gauges - WIKA
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image11.png
       categories: ["instrument"]
       link: "#"
 
     - name: Condition monitoring sensors
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image12.png
       categories: ["instrument"]
       link: "#"
 
     - name: Monitoring gauges
-      image: images/products/instrument.jpg
+      image: images/products/instrument/image13.png
       categories: ["instrument"]
       link: "#"
 
   # mech
 
     - name: Valves like gate valve, check valve, globe valve, safety relief valve
-      image: images/products/mech.jpg
+      image: images/products/mech/image1.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Pipeline products – fittings, flanges, pipes, isolation kits, stud bolts, gaskets
-      image: images/products/mech.jpg
+      image: images/products/mech/image2.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Fittings, CPVC & PVC products, HDPE
-      image: images/products/mech.jpg
+      image: images/products/mech/image3.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Pipeline services for on-site engineering
-      image: images/products/mech.jpg
+      image: images/products/mech/image4.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Passive fire protection
-      image: images/products/mech.jpg
+      image: images/products/mech/image5.png
       categories: ["mechanical"]
       link: "#"
 
     - name: OEM spares
-      image: images/products/mech.jpg
+      image: images/products/mech/image6.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Mechanical seals
-      image: images/products/mech.jpg
+      image: images/products/mech/image7.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Protective coatings and Paint
-      image: images/products/mech.jpg
+      image: images/products/mech/image8.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Welding Equipment
-      image: images/products/mech.jpg
+      image: images/products/mech/image9.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Workshop Maintenance Tools
-      image: images/products/mech.jpg
+      image: images/products/mech/image10.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Spray nozzles
-      image: images/products/mech.jpg
+      image: images/products/mech/image11.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Tank cleaning and washing systems
-      image: images/products/mech.jpg
+      image: images/products/mech/image12.png
       categories: ["mechanical"]
       link: "#"
 
     - name: Spray lances
-      image: images/products/mech.jpg
+      image: images/products/mech/image13.png
       categories: ["mechanical"]
       link: "#"
 
 # turbine
     - name: 1st and 2nd stage nozzles
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image1.png
       categories: ["turbine"]
       link: "#"
 
     - name: Nozzle ring
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image2.png
       categories: ["turbine"]
       link: "#"
 
     - name: Combustion liners
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image3.png
       categories: ["turbine"]
       link: "#"
 
     - name: Compressor blades and liners
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image4.png
       categories: ["turbine"]
       link: "#"
 
     - name: Complete HP and LP rotors
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image5.png
       categories: ["turbine"]
       link: "#"
 
     - name: Centrifugal compressors
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image6.png
       categories: ["turbine"]
       link: "#"
 
     - name: Heat exchangers
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image7.png
       categories: ["turbine"]
       link: "#"
 
     - name: Filtration units
-      image: images/products/turbine.jpg
+      image: images/products/turbine/image8.png
       categories: ["turbine"]
       link: "#"
 
 # thermilate
     - name: Thermilate e-coat 
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/e-coat.png
       categories: ["thermilate"]
       description: Pure acrylic elastomeric paint with ceramic spheres (Top coat with high Solar reflective Index)It is energy-saving water-based coating that can reduce the sun's heat.
       link: "#"
 
     - name: Thermilate Roofcoat
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/roofcoat.png
       categories: ["thermilate"]
+      description: "It protects from deterioration, Leakage and Structural Damage Over Time"
       link: "#"
 
     - name: Thermilate Leakguard 
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/leakguard.png
       categories: ["thermilate"]
+      description: "Protects your concrete roof with Liquid applied waterproofing solutions."
       link: "#"
 
     - name: Thermilate Leakguard Standard
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/standard.png
       categories: ["thermilate"]
+      description: "One-component, ready to use Can be applied as single coat Eliminates the possibilities of leakage." 
       link: "#"
 
     - name: Thermilate Primer 
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/primer.png
       categories: ["thermilate"]
+      description: " It acts as a protective agent."
       link: "#"
 
     - name: Butyl Tape
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/tape.png
       categories: ["thermilate"]
+      description: "Thermilate's Butyl Tape is a self-adhesive, flexible tape perfect for sealing and waterproofing metal roofs, PVC, and cement joints. It provides a watertight, puncture-proof membrane, ensuring long-term protection against water damage." 
       link: "#"
 
     - name: Polyster Reinforcement Mesh 
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/mesh.png
       categories: ["thermilate"]
+      description : "This stitch-bonded marvel brings strength to cold applied built-up roofing, elastomeric roof coatings, and more."
       link: "#"
 
     - name: Butyl sealant T- 103 (For side laps)
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/butyl.png
       categories: ["thermilate"]
+      description: "It can truly seal the joints and perform as permanently flexible even after 15 years.It is neutral sealant, which does not corrode the steel panel."
       link: "#"
 
     - name: Rust Bullet 
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/rust.png
       categories: ["thermilate"]
+      description: Rust Bullet is a single-component protective coating applied directly to rusted or clean surfaces. It penetrates rust, dehydrates, and solidifies into a tough, nearly impenetrable coating. rust arrestor coating ensures long-lasting protection and durability. 
       link: "#"
 
-    - name: Polyurethane Low modulus sealant – T104
-      image: images/products/turbine.jpg
+    - name: Polyurethane Low modulus sealant - T104
+      image: images/products/thermilates/butyl.png
       categories: ["thermilate"]
       link: "#"
     
     - name: Vitrocoat – Glass coating additive
-      image: images/products/turbine.jpg
+      image: images/products/thermilates/vitrocoat.png
+      description: "Produce your own-colored Glass! A liquid additive engineered specifically to enable you to create your own colored Glass, with exceptional results. It is scratch resistant, no peel and easily applied back painted glass, Vitrocoat is successfully applied to : Laminated glass, Tempered glass, annealed, curved, textured, tinted, fused, etc." 
       categories: ["thermilate"]
       link: "#"
+
+# facad
+    - name:  Windows and Door Systems, Casement Systems
+      image: images/products/focus/image2.png
+      categories: ["facad focus"]
+      description: "Facade system by using global Aluminium extrusion profiles such as SMS Schimmer(Thailand), forster (Switzerland), Installux Gulf (France) enabling complete solutions for the manufacture of aluminium profiles and accessories."
+      link: "#"
+
+    - name: PointFix Glazing Systems
+      image: images/products/focus/image3.png
+      categories: ["facad focus"]
+      description: "Fabrication and installation of Façades and Fenestrations using high quality systems, profiles and Hardwares for projects in India and Overseas. "
+      link: "#"
+
+    - name: Curtain wall – Stick, Conventional & Structural
+      image: images/products/focus/image4.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Aluminium solid Cladding
+      image: images/products/focus/image5.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Aluminium Composite Cladding 
+      image: images/products/focus/image6.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Glass Balustrades & Railings
+      image: images/products/focus/image7.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Internal Glass Partitions
+      image: images/products/focus/image8.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Aluminium Doors & Windows
+      image: images/products/focus/image9.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Glass Floorings   
+      image: images/products/focus/image10.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name:  Glass features & Decorative Effects  
+      image: images/products/focus/image11.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Shower Door Glass Windows    
+      image: images/products/focus/image12.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name:  Skylights    
+      image: images/products/focus/image13.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name: Bullet & Blast Resistant Glass   
+      image: images/products/focus/image14.png
+      categories: ["facad focus"]
+      link: "#"
+
+    - name:  Fire Rated Doors & Partitions   
+      image: images/products/focus/image15.png
+      categories: ["facad focus"]
+      link: "#"
+
+    
 
