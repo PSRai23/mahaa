@@ -105,10 +105,10 @@ name = "Products"
 url = "#portfolio"
 weight = 3
 
-# [[Languages.en.menu.main]]
-# name = "partners"
-# url = "#testimonial"
-# weight = 4
+[[Languages.en.menu.main]]
+name = "partners"
+url = "#testimonial"
+weight = 4
 
 # [[Languages.en.menu.main]]
 # name = "pricing"
@@ -123,7 +123,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 4
+weight = 5
 
 
 
