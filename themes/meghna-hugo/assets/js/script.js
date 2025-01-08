@@ -154,3 +154,37 @@ $(document).ready(function() {
     mainClass: 'mfp-fade', 
   });
 });
+
+
+// carousel smooth movement
+$(document).ready(function () {
+	$(".owl-carousel").owlCarousel({
+	  items: 1,
+	  loop: true,
+	  margin: 10,
+	  autoplay: true,
+	  autoplayTimeout: 5000,
+	  autoplayHoverPause: true,
+	  animateOut: "fadeOut", 
+	  animateIn: "fadeIn", 
+	  smartSpeed: 800, 
+	  responsive: {
+		0: {
+		  items: 1,
+		},
+		600: {
+		  items: 2,
+		},
+		1000: {
+		  items: 3,
+		},
+	  },
+	  onInitialized: function () {
+		// Mark images as loaded
+		$(".client-thumb img").each(function () {
+		  $(this).addClass("loaded");
+		});
+	  },
+	});
+  });
+  

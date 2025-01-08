@@ -106,7 +106,7 @@ url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "partners"
+name = "Partners"
 url = "#testimonial"
 weight = 4
 

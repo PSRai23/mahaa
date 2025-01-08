@@ -2,79 +2,381 @@
 testimonial:
   enable : true
   title : Our Partners
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/1.svg
-      image_webp : images/client/1.svg
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    #loop 1
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
       
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/2.svg
-      image_webp : images/client/2.svg
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
       
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/3.svg
-      image_webp : images/client/3.svg
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/4.svg
-      image_webp : images/client/4.svg
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : BETE
+      image : images/partners/11.png
       
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/5.svg
-      image_webp : images/client/5.svg
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+
+
+    # loop2
+
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
       
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/6.png
-      image_webp : images/client/6.png
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/7.png
-      image_webp : images/client/7.png
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
       
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/8.png
-      image_webp : images/client/8.png
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : BETE
+      image : images/partners/11.png
       
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/9.png
-      image_webp : images/client/9.png
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/10.png
-      image_webp : images/client/10.png
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+
+
+    # loop3
+
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
       
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/11.jpg
-      image_webp : images/client/11.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!    
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
+      
+    - name : BETE
+      image : images/partners/11.png
+      
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+
+
+    # loop4
+
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
+      
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
+      
+    - name : BETE
+      image : images/partners/11.png
+      
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
+      
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
+      
+    - name : BETE
+      image : images/partners/11.png
+      
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+
+
+    # loop2
+
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
+      
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
+      
+    - name : BETE
+      image : images/partners/11.png
+      
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+
+
+    # loop3
+
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
+      
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
+      
+    - name : BETE
+      image : images/partners/11.png
+      
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
+
+
+    # loop4
+
+    - name : ABB
+      image : images/partners/1.png
+     
+    - name : Thermilate
+      image : images/partners/2.png
+     
+    - name : Siemens
+      image : images/partners/3.png
+     
+    - name : Homa
+      image : images/partners/4.png
+   
+    - name : HallMark
+      image : images/partners/5.png
+
+    - name : Dynamax
+      image : images/partners/6.png
+      
+    - name : Stonhard
+      image : images/partners/7.png
+     
+    - name : Fibergrate
+      image : images/partners/8.png
+     
+    - name : Flowcrete
+      image : images/partners/9.png
+
+    - name : Nullifire
+      image : images/partners/10.png
+      
+    - name : BETE
+      image : images/partners/11.png
+      
+    - name : Echeuch
+      image : images/partners/12.png
+
+    - name : NANHUA
+      image : images/partners/13.png
+
+    - name : Facad Focus
+      image : images/partners/14.png
+
+    - name : Parter15
+      image : images/partners/15.png
